@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/happy-ddog/static/css/main.073c9b0a.css",
+    "main.js": "/happy-ddog/static/js/main.c0ddfe94.js",
+    "static/js/787.28cb0dcd.chunk.js": "/happy-ddog/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/happy-ddog/static/media/logo.888c143c1c346bf54f58590b72276422.svg",
+    "index.html": "/happy-ddog/index.html",
+    "main.073c9b0a.css.map": "/happy-ddog/static/css/main.073c9b0a.css.map",
+    "main.c0ddfe94.js.map": "/happy-ddog/static/js/main.c0ddfe94.js.map",
+    "787.28cb0dcd.chunk.js.map": "/happy-ddog/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c0ddfe94.js"
+  ]
+}
